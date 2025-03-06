@@ -1,0 +1,30 @@
+clear 
+pwd - print working directory
+directory - folder
+ls - list
+mkdir - make directory
+cd - change directory
+Text editors in linux (vim -vi )(nano)
+ls -a (list all hidden files)
+touch <filename> - to create a file
+nano <filename> - to create a file with editor
+cd ../ - Go back to one step in folder
+Absolute path - cd ./shwetha/raghul-test
+Relative path - cd shwetha
+cat <filename> - to view the file content
+Vi <filename>   -> esc+i(insert mode) -> changes -> esc+:wq(save and quit)
+ls -l - list all the files with user access details
+sudo -super user doable (Admin)
+sudo apt-get update (update all the required packages )
+sudo apt-get upgrade (upgrade all the required packages )
+rm <filename> - remove a file
+rmdir <foldername> - remove a folder/directory
+sudo apt install unzip - install a new software/package using apt
+sudo apt unstall unzip - unstall a software/package using apt
+cp <from location> <destination location> - copy files
+mv <from location> <destination location> - move files
+<cmd> --help - It will shows all the options in the command
+man <package/cmd> - Manual pages (brief description)
+!! - Run previous command with permission
+
+
